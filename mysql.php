@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$name = "tutorial";
+$name = "hpweb";
 $user = "root";
 $passwort = "";
 try{
